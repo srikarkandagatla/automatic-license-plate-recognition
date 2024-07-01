@@ -2,7 +2,7 @@
 CNN-based Text Recognition for Automatic License Plate Recognition (ALPR).
 
 ## About Dataset
-Access the cascade classifier file through the following link: https://www.kaggle.com/datasets/sarthakvajpayee/ai-indian-license-plate-recognition-data?select=car.jpg
+Access the cascade classifier file through the following [link](https://www.kaggle.com/datasets/sarthakvajpayee/ai-indian-license-plate-recognition-data?select=car.jpg).
 
 ## About Repository
 Within this repository, you'll discover a program designed to identify characters on car license plates. Leveraging a pre-trained cascade classifier file (indian_license_plate.xml), specifically tailored for detecting Indian license plates, the code detects the regions associated with license plates. Subsequently, certain functions are applied to further segment the images, isolating individual characters onto separate images.
